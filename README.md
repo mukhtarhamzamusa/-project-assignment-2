@@ -36,3 +36,4 @@ Notes:
 - Ensure your PostgreSQL user has permission to create tables and insert rows.
 - If using Docker/Postgres, set the `.env` accordingly and run the migration against that DB.
 "# assignment-2" 
+"# assignment-2" 

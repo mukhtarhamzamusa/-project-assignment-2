@@ -1,0 +1,11 @@
+:root{--max-width:720px;--gap:12px}
+body{font-family:Segoe UI,Roboto,Arial,sans-serif;display:flex;align-items:flex-start;justify-content:center;padding:24px}
+.container{width:100%;max-width:var(--max-width)}
+form{display:flex;flex-direction:column;gap:8px;margin-bottom:16px}
+label{display:flex;flex-direction:column;font-size:14px}
+input,select,button{padding:8px;font-size:14px}
+button{width:160px}
+#message{margin:8px 0}
+.error{color:#b00020}
+.success{color:#0b6623}
+ul{padding-left:18px}
